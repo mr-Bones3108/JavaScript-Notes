@@ -7,7 +7,7 @@ let html;
 html  = "<h1> this is heading</h1>"+
         "<p> this is My para</p>";
 
-html = html.concat('this', ' str2');
+        html = html.concat('this', ' str2');
 console.log(html);
 // console.log(html.length);
 // console.log(html.toLowerCase());
