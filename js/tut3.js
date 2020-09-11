@@ -6,7 +6,7 @@ var name = 'harry';
 var channel;
 var marks = 3454;
 marks = 0;
-channel = 'CodeWithHarry'
+channel = 'CodeWithHarry';
 console.log(name, channel, marks);
 // Rules for creating JavaScript Variables
 /*
@@ -22,6 +22,7 @@ const ownersName = 'Hari Ram';
 console.log(ownersName);
 const fruit = 'Orange';
 
+// inscope
 {
  let city = 'Rampur';   
  city = 'Kolkata';
@@ -32,7 +33,7 @@ console.log(city);
 
 const arr1 = [12,23,12,53, 3];
 // arr1.push(45);
-console.log(arr1)
+console.log(arr1);
 
 /* Most common programming case types:
 
@@ -41,5 +42,5 @@ console.log(arr1)
 3. snake_case 
 4. PascalCase 
 
-
+rollNumber
 */
