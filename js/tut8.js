@@ -1,7 +1,7 @@
 console.log('This is tutorial 8');
 const age = 128;
 const doesDrive = false;
-// const vari = 34;
+const vari = 34;
 
 // if (age!=19){
 //     console.log('Age is not 19')
